@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaio Magalhães</title>
+    <description>Kaio Magalhães&#39;s blog...</description>
+    <link>https://dyndna.github.io/lanyon-plus/kaiomagalhes/</link>
+    <atom:link href="https://dyndna.github.io/lanyon-plus/kaiomagalhes/rfeed.xml" rel="self" type="application/rss+xml" />
+    <updated>2016-05-13T19:54:37-03:00</updated>
+    <id>https://dyndna.github.io/lanyon-plus</id>
+    <author>
+      <name>Kaio Magalhães</name>
+    </author>
+    
+  </channel>
+</rss>

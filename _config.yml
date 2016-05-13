@@ -6,17 +6,17 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Kaio Magalhães
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Kaio Magalhães's blog...
 url: https://dyndna.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
+baseurl: "/home"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
 excerpt_separator: <!--more-->
-default_bg: sitelogo.png 
+default_bg: sitelogo.png
 safe: false
 #timezone:    America/Chicago
 future:      true
@@ -33,27 +33,27 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
+  name:              Kaio Magalhães
   url:               https://twitter.com/abcd
-  avatar:         foo.png
-  #email:           
+  avatar:            foo.png
+  email:             me@kaiomagalhaes.com
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:              Kaio Magalhães
   avatar:         foo.png
-  #email:          
+  email:             me@kaiomagalhaes.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        abcd
-  facebook:       
+  facebook:
   github:         xyz123abc
-  stackexchange:  
+  stackexchange:
   linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
+  instagram:
   flickr:
-  tumblr:  
+  tumblr:
   google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
